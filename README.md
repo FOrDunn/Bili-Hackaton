@@ -91,7 +91,7 @@ Our requirements were to find a solution that:
 
 ## Creating an architectural design
 
-
+![Architectural design](./images/ssoftwareArchitecture.PNG)
 
 <!-- CONTACT -->
 ## Contact
