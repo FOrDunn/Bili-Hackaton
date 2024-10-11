@@ -1,9 +1,10 @@
+# Samson Project
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 ![Samson Project](./images/samsonLogo.PNG)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The Apple Farm Irrigation Project aims to automate and optimize water usage through soil moisture sensors, weather data integration, and an efficient irrigation system to improve apple yield and conserve resources. This system will reduce water waste, enhance crop quality, and support sustainable farming practices.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
