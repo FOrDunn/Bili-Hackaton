@@ -27,58 +27,28 @@ To do this, we set ourselves some learning objectives for the project and for ou
 4. Being able to analyze and prioritize the entire project using design thinking methods
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [x] Problem definition
+- [x] Use structured methods to visualize possible problems and solutions
+- [x] Learning to use microcontrollers and microcomputers
+- [x] Find hardware that is effective and within the given parameters
+- [x] Creating an architectural design
+- [x] Making a prototype
 
 
+## Problem definition
 
-<!-- CONTRIBUTING -->
-## Contributing
+We were given the objective of being able to think about the problem with at least 2 different techniques and that's what we did.
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+1. First we start with a simple way of solving and thinking about the problem. We use the 5w method because it's simple and shows a lot about where our problem is headed.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+2. As a second option, we like to find out what the causes of the current problems are and differentiate between what the problems really are and visualize the situation as a whole. At this point we like to choose the problem tree to define this
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+3. In order to think of the most feasible solution, we like to follow the Disney method, because we are able to think together and discuss ideas in a structured way, showing various ways in which the project can be developed and adapted according to different ideas.
 
-### Top contributors:
-
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+   
 <!-- LICENSE -->
 ## License
 
