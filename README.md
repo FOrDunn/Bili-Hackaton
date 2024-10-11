@@ -50,16 +50,17 @@ We were given the objective of being able to think about the problem with at lea
 
    
 <!-- LICENSE -->
-## License
+## Learning experience
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Once we had finished writing down the problems and looking for solutions in the theoretical part, we decided to move on to the phase of testing solutions and understanding how they would work in practice.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+With the arduino in hand, we were able to test various attachments and see how the data input would really work and use it in a way that we could gather the information we needed
 
+With the Rasberry we were able to test and run a server locally if necessary, but we saw that we didn't need that, as a server running in the cloud or anywhere else would work just as well. This server would be collecting local information from the various sensors passing through the lorawan network and being monitored by the server at all times. The server receives data from the existing local antennas at the same time, as well as data from the OpenAPI in the Hamburg area, so that we have the most accurate data possible. All of this is being compared so that there is as little error as possible.
 
 
 <!-- CONTACT -->
-## Contact
+## Hardware
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
