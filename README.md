@@ -95,6 +95,8 @@ Our requirements were to find a solution that:
 
 ## Prototype
 
+## Marketing and knowledge
+
 <!-- CONTACT -->
 ## Contact
 
