@@ -73,7 +73,7 @@ Our requirements were to find a solution that:
 
 
 ### Our choice: SenseCAP S2107
-![Sensor](.images/senseCapSensor.PNG)
+![Samson Project](./images/senseCapSensor.PNG)
 
 <!-- CONTACT -->
 ## Contact
