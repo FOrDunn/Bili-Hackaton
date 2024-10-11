@@ -1,6 +1,4 @@
 # Samson Project
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
 ![Samson Project](./images/samsonLogo.PNG)
 
