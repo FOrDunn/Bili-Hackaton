@@ -96,7 +96,7 @@ Our requirements were to find a solution that:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Juan Cruz Blandi / Sebastian / Lars Laubscher - cruzjuanbland@gmail.com
 
 Project Link: [Repo link](https://github.com/FOrDunn/Bili-Hackaton)
 
