@@ -73,7 +73,7 @@ Our requirements were to find a solution that:
 
 
 ### Our choice: SenseCAP S2107
-[@your_twitter](.images/senseCapSensor.PNG)
+![Sensor](.images/senseCapSensor.PNG)
 
 <!-- CONTACT -->
 ## Contact
