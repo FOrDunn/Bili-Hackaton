@@ -72,6 +72,9 @@ Our requirements were to find a solution that:
 - Measuring accuracy: ± 0.5°C
 
 
+### Our choice: SenseCAP S2107
+[@your_twitter](.images/senseCapSensor.PNG)
+
 <!-- CONTACT -->
 ## Contact
 
