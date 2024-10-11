@@ -5,7 +5,7 @@
 The Samson aims to automate and optimize the apple farms through tecnology, weather data integration, and an efficient irrigation system to improve apple yield and conserve resources. This system will reduce water waste, enhance crop quality, and support sustainable farming practices.
 
 Here's why:
-* about 1/3 of all stretchers are lost every year and this could be optimized causing a great impact on society
+* about 1/3 of all apples are lost every year and this could be optimized causing a great impact on society
 * Saving time by using the latest technology can greatly increase productivity and make life easier for farmers
 * Optimizing losses and time, the possibility of increasing the quantity of product and quality, could make food cheaper to a certain extent
 
