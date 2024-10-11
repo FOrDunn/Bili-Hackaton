@@ -80,6 +80,11 @@ Our requirements were to find a solution that:
 - Long Range & Battery powered: Ultra-wide-transmission range of 2km in urban scenes and 10km in line of sight scenes. Powered by easily replaceable standard Li-SOCl2 battery (type: ER34615) with Max.10 years of battery life.
 - Simple Configuration and Calibration: SenseCAP provides a no-code experience that enables users to finish configuration and calibration through SenseCAP Mate APP.
 
+
+#### SenseCAP 2107 Links
+
+Your Name - [Main Website](https://www.seeedstudio.com/SenseCAP-S2107-Temperature-Sensor-p-5807.html)
+
 <!-- CONTACT -->
 ## Contact
 
