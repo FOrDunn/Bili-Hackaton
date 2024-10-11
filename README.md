@@ -93,6 +93,8 @@ Our requirements were to find a solution that:
 
 ![Architectural design](./images/softwareArchitecture.PNG)
 
+## Prototype
+
 <!-- CONTACT -->
 ## Contact
 
