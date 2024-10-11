@@ -83,7 +83,9 @@ Our requirements were to find a solution that:
 
 #### SenseCAP 2107 Links
 
-Your Name - [Main Website](https://www.seeedstudio.com/SenseCAP-S2107-Temperature-Sensor-p-5807.html)
+[Main Website](https://www.seeedstudio.com/SenseCAP-S2107-Temperature-Sensor-p-5807.html)
+[User Guide](https://wiki.seeedstudio.com/SenseCAP_S2107/)
+[Website to buy in germany](https://www.antratek.de/sensecap-s2107-lorawan-temperature-sensor-with-pt1000)
 
 <!-- CONTACT -->
 ## Contact
