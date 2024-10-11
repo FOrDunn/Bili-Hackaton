@@ -2,19 +2,12 @@
 
 ![Samson Project](./images/samsonLogo.PNG)
 
-The Apple Farm Irrigation Project aims to automate and optimize water usage through soil moisture sensors, weather data integration, and an efficient irrigation system to improve apple yield and conserve resources. This system will reduce water waste, enhance crop quality, and support sustainable farming practices.
+The Samson aims to automate and optimize water usage through soil moisture sensors, weather data integration, and an efficient irrigation system to improve apple yield and conserve resources. This system will reduce water waste, enhance crop quality, and support sustainable farming practices.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* about 1/3 of all stretchers are lost every year and this could be optimized causing a great impact on society
+* Saving time by using the latest technology can greatly increase productivity and make life easier for farmers
+* Optimizing losses and time, the possibility of increasing the quantity of product and quality, could make food cheaper to a certain extent
 
 
 ### Built With
