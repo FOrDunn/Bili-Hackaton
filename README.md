@@ -2,7 +2,7 @@
 
 ![Samson Project](./images/samsonLogo.PNG)
 
-The Samson aims to automate and optimize water usage through soil moisture sensors, weather data integration, and an efficient irrigation system to improve apple yield and conserve resources. This system will reduce water waste, enhance crop quality, and support sustainable farming practices.
+The Samson aims to automate and optimize the apple farms through tecnology, weather data integration, and an efficient irrigation system to improve apple yield and conserve resources. This system will reduce water waste, enhance crop quality, and support sustainable farming practices.
 
 Here's why:
 * about 1/3 of all stretchers are lost every year and this could be optimized causing a great impact on society
