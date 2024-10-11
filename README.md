@@ -38,7 +38,7 @@ To do this, we set ourselves some learning objectives for the project and for ou
 - [x] Making a prototype
 
 <!-- DEFINITION AND IDEALIZATION -->
-## defining the problem and idealizing the solution
+## Defining the problem and idealizing the solution
 
 We were given the objective of being able to think about the problem with at least 2 different techniques and that's what we did.
 
