@@ -100,9 +100,7 @@ Our requirements were to find a solution that:
 <!-- CONTACT -->
 ## Contact
 
-Juan Cruz Blandi / Sebastian / Lars Laubscher - cruzjuanbland@gmail.com
-
-Project Link: [Repo link](https://github.com/FOrDunn/Bili-Hackaton)
+Juan Cruz Blandi / Sebastian Jarnot/ Lars Laubscher - cruzjuanbland@gmail.com
 
 <!-- LINKS -->
 ## Links
