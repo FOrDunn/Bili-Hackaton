@@ -35,7 +35,7 @@ To do this, we set ourselves some learning objectives for the project and for ou
 - [x] Learning to use microcontrollers and microcomputers
 - [x] Find hardware that is effective and within the given parameters
 - [x] Creating an architectural design
-- [x] Making a prototype
+- [ ] Making a prototype
 
 <!-- DEFINITION AND IDEALIZATION -->
 ## Defining the problem and idealizing the solution
