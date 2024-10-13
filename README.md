@@ -105,6 +105,8 @@ So, in summary, the sensor sends temperature data through the gateway to the ser
 
 ## Prototype
 
+![Prototyp design](./images/prototypDesign.PNG)
+
 <!-- CONTACT -->
 ## Contact
 
