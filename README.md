@@ -121,3 +121,5 @@ Problem definition: [Drive Link](https://onedrive.live.com/edit?id=7FA99F1BEC275
 
 Blog Post: [WP Link](https://www.designentrepreneurshipworkshop.org/2024/10/13/revolutionizing-apple-farming-with-the-samson-project-a-technological-approach/)
 
+GUI: [Figma prototyp](https://www.figma.com/proto/296XwRpGYLkkY4USLX0ISy/Bili-Hackaton?node-id=1-168&t=6HZQFzedZFZbKUpX-1)
+
