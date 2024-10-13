@@ -93,6 +93,16 @@ Our requirements were to find a solution that:
 
 ![Architectural design](./images/softwareArchitecture.PNG)
 
+So, the system starts with an S2107 temperature sensor, which measures the temperature in real-time. This sensor sends its data wirelessly, using a technology like LoRaWAN, to a LoRa Gateway—basically, this is what helps transmit the sensor's data over the internet.
+
+From the LoRa Gateway, the data travels to a LoRaWAN Network Server over the internet. The server's job is to manage and route this data, making sure it reaches the backend for further processing.
+
+Now, in the backend, we have some additional components. For example, it connects to external services like an OpenAPI, which probably pulls in some external data (like weather data from an external provider), and a Local Weather Antenna (or a local weather station), which could provide local weather conditions for comparison with the sensor's data.
+
+Once the backend processes everything, it passes the data to a Graphical User Interface (GUI). This is where we, or the users, can see the temperature readings and any other useful information the system gathers, possibly alongside data from the local weather station or external APIs.
+
+So, in summary, the sensor sends temperature data through the gateway to the server, which processes it and combines it with other data sources before it's all presented to the user on the GUI.
+
 ## Prototype
 
 <!-- CONTACT -->
