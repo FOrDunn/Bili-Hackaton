@@ -20,6 +20,7 @@ app.get("/weatherData", async (req, res) => {
 
 app.get("/monitoring", async (req, res) => {
   const mockTemp = 20;
+  const mockFrostProb = "30%";
   const fieldSectors = [
     { sector: "1a" },
     { sector: "1b" },
@@ -49,7 +50,7 @@ app.get("/monitoring", async (req, res) => {
   ];
 
   const fieldTemp = fieldSectors.map((e) => {
-    return { sector: e.sector, temperature: getMockTemp(mockTemp).toFixed(2) };
+    return { sector: e.sector, temperature: getMockTemp(mockTemp).toFixed(2), frostProb : mockFrosProb };
   });
   res.status(200).json(fieldTemp);
 });
