@@ -1,17 +1,5 @@
 const axios = require("axios");
 const express = require("express");
-const app = express();
-const port = 5001;
-
-app.use(express.json());
-app.use(cors());
-
-function getMockTemp(temp) {
-  return Math.random() * (temp - (temp - 2)) + temp - 2;
-}
-
-const axios = require("axios");
-const express = require("express");
 const cors = require("cors");
 const app = express();
 const port = 5001;
