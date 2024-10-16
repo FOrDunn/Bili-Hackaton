@@ -11,16 +11,19 @@ function getMockTemp(temp) {
   return Math.random() * (temp - (temp - 2)) + temp - 2;
 }
 
-app.get("/weatherData", async (req, res) => {
-  const response = await axios.get(
-    "https://api.openweathermap.org/data/2.5/forecast?lat={53.551086}&lon={9.993682}&appid={35783ee1758c7a5f69b3772f04cc1555}"
-  );
-  res.status(200).json(response);
+app.get("/weatherdata", async (req, res) => {
+  let weatherData = {};
+  await axios
+    .get(
+      "https://api.openweathermap.org/data/2.5/forecast?lat=53.55&lon=9.99&appid=35783ee1758c7a5f69b3772f04cc1555"
+    )
+    .then((response) => (weatherData = response.data));
+
+  res.status(200).json(weatherData);
 });
 
-app.get("/monitoring", async (req, res) => {
+app.get("/monitoring", (req, res) => {
   const mockTemp = 20;
-  const mockFrostProb = "30%";
   const fieldSectors = [
     { sector: "1a" },
     { sector: "1b" },
@@ -50,7 +53,7 @@ app.get("/monitoring", async (req, res) => {
   ];
 
   const fieldTemp = fieldSectors.map((e) => {
-    return { sector: e.sector, temperature: getMockTemp(mockTemp).toFixed(2), frostProb : mockFrosProb };
+    return { sector: e.sector, temperature: getMockTemp(mockTemp).toFixed(2) };
   });
   res.status(200).json(fieldTemp);
 });
